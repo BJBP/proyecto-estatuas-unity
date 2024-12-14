@@ -1,0 +1,1 @@
+C:\Users\BJBP\Downloads\proyectos_unity\vuforia sample 2\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
